@@ -1,0 +1,16 @@
+html,
+body,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+.title {
+  font-size: 20px;
+  line-height: 50px;
+  color: orange;
+}
